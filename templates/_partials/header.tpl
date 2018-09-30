@@ -69,7 +69,7 @@
           </h1>
           {/if}
         </div>
-        <div class="col-md-10 col-sm-12 position-static">
+        <div class="col-md-10 col-sm-12">
           {hook h='displayTop'}
           <div class="clearfix"></div>
         </div>
