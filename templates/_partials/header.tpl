@@ -47,7 +47,6 @@
           <div class="float-xs-right" id="_mobile_cart"></div>
           <div class="float-xs-right" id="_mobile_user_info"></div>
           <div class="top-logo" id="_mobile_logo"></div>
-          <div class="clearfix"></div>
         </div>
       </div>
     </div>
@@ -69,9 +68,8 @@
           </h1>
           {/if}
         </div>
-        <div class="col-md-10 col-sm-12">
+        <div class="col-md-10 col-sm-12 display-top-wrapper">
           {hook h='displayTop'}
-          <div class="clearfix"></div>
         </div>
       </div>
       <div id="mobile_top_menu_wrapper" class="row hidden-md-up" style="display:none;">
