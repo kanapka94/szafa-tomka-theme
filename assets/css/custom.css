@@ -7,6 +7,8 @@ body{font-family:Roboto,sans-serif}
 #header .top-menu a[data-depth="0"]:hover{color:#ff3535}
 #header a:hover{color:#ff3535}
 .display-top-wrapper{display:flex;align-items:center;justify-content:space-between}
+#wrapper{background:#696969}
 .search-widget form input[type=text]:focus{outline:3px solid #240506}
 .search-widget form input[type=text]:focus+button .search{color:#240506}
 .search-widget form button[type=submit] .search:hover{color:#240506;cursor:pointer}
+.slide__title{font-family:Anton,sans-serif}

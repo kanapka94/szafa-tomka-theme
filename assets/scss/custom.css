@@ -1,5 +1,9 @@
 @import url('typography.css');
 @import url('modules/header.css');
+@import url('modules/main.css');
+
+/* Widgets */
 @import url('modules/search-widget.css');
+@import url('modules/slider.css');
 
 /*# sourceMappingURL=custom.css.map */

@@ -1,0 +1,7 @@
+@import '../vars';
+
+.slide {
+	&__title {
+		font-family: $font-primary;
+	}
+}
