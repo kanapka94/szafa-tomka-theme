@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;gFAEgF;AAIhF;;gFAEgF;ACH7E,4CAAQ;EACP,OAAO,EAAE,iBAA0B;EAElC,6DAAQ;IACP,KAAK,EDCO,OAAO;ACOrB,uDAAQ;EACP,KAAK,EDRQ,OAAO;ECSpB,MAAM,EAAE,OAAO",
+"sources": ["../vars.scss","search-widget.scss"],
+"names": [],
+"file": "search-widget.css"
+}

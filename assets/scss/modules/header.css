@@ -1,0 +1,33 @@
+/* ==========================================================================
+   Fonts
+   ========================================================================== */
+/* ==========================================================================
+   Colors
+   ========================================================================== */
+#header .header-nav {
+  margin-bottom: 25px; }
+#header .header-top__h1 {
+  margin: -7px 0 0 0; }
+#header .header-top .menu {
+  margin: 0;
+  padding: 0; }
+#header .top-menu {
+  margin: 0;
+  padding: 0; }
+  #header .top-menu a {
+    padding: 10px 20px;
+    font-family: "Anton", sans-serif;
+    font-size: 20px;
+    letter-spacing: .5px;
+    font-weight: normal; }
+    #header .top-menu a[data-depth="0"]:hover {
+      color: #ff3535; }
+#header a:hover {
+  color: #ff3535; }
+
+.display-top-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; }
+
+/*# sourceMappingURL=header.css.map */

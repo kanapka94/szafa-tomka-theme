@@ -1,0 +1,48 @@
+@import '../vars';
+
+#header {
+  .header-nav {
+    margin-bottom: 25px;
+  }
+
+  .header-top {
+    &__h1 {
+      margin: -7px 0 0 0;
+    }
+
+    .menu {
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .top-menu {
+    margin: 0;
+    padding: 0;
+
+    a {
+      padding: 10px 20px;
+      font-family: $font-primary;
+      font-size: 20px;
+      letter-spacing: .5px;
+      font-weight: normal;
+
+      &[data-depth="0"]:hover {
+        color: $brand-color;
+      }
+    }
+  }
+
+  a {
+    &:hover {
+      color: $brand-color;
+    }
+  }
+}
+
+.display-top-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+

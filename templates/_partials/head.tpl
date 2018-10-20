@@ -56,7 +56,7 @@
 {/block}
 
 {block name='fonts'}
-  <link href="https://fonts.googleapis.com/css?family=Raleway|Shadows+Into+Light" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Anton|Roboto" rel="stylesheet">
 {/block}
 
 {block name='stylesheets'}

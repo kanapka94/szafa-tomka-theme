@@ -1,13 +1,15 @@
 /* ==========================================================================
    Fonts
    ========================================================================== */
-$font-primary: 'Anton', sans-serif;
-$font-secondary: 'Roboto', sans-serif;
-
 /* ==========================================================================
    Colors
    ========================================================================== */
-$base-color: #696969;
-$base-dark-color: #240506;
-$brand-color: #ff3535;
-$accent-color: #deb069;
+.search-widget form input[type="text"]:focus {
+  outline: 3px solid #240506; }
+  .search-widget form input[type="text"]:focus + button .search {
+    color: #240506; }
+.search-widget form button[type="submit"] .search:hover {
+  color: #240506;
+  cursor: pointer; }
+
+/*# sourceMappingURL=search-widget.css.map */

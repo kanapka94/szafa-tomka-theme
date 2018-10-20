@@ -59,7 +59,7 @@
       <div class="row">
         <div class="col-md-2 hidden-sm-down" id="_desktop_logo">
           {if $page.page_name == 'index'}
-          <h1>
+          <h1 class="header-top__h1">
           {/if}
             <a href="{$urls.base_url}">
               <img class="logo img-responsive" src="{$shop.logo}" alt="{$shop.name}">

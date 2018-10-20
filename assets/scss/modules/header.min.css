@@ -1,0 +1,8 @@
+#header .header-nav{margin-bottom:25px}
+#header .header-top__h1{margin:-7px 0 0 0}
+#header .header-top .menu{margin:0;padding:0;font-family:Anton,sans-serif;font-size:20px;letter-spacing:.5px}
+#header .top-menu{margin:0;padding:0}
+#header .top-menu a{padding:10px 20px;font-weight:400}
+#header .top-menu a[data-depth="0"]:hover{color:#ff3535}
+#header a:hover{color:#ff3535}
+.display-top-wrapper{display:flex;align-items:center;justify-content:space-between}

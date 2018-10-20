@@ -1,0 +1,25 @@
+@import '../vars';
+
+.search-widget {
+	form {
+		input[type="text"] {
+			&:focus {
+				outline: 3px solid $base-dark-color;
+				+ button {
+					.search {
+						color: $base-dark-color;
+					}
+				}
+			}
+		}
+
+		button[type="submit"] {
+			.search {
+				&:hover {
+					color: $base-dark-color;
+					cursor: pointer;
+				}
+			}
+		}
+	}
+}
