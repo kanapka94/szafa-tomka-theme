@@ -1,6 +1,9 @@
+@import 'vars';
+
 #header {
   .header-top {
     .menu {
+      font-family: $font-secondary;
       margin: 0;
       padding: 0;
     }
@@ -17,3 +20,4 @@
   align-items: center;
   justify-content: space-between;
 }
+
